@@ -24,7 +24,7 @@
 > A <b>controlled vocabulary</b>  is recommended to use by user in <b>Value</b> field of <b>DetailClass</b>.
 > <b>e.g.</b> For reproductive strategy: polycyclic, semelparous, iteroparous...
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 
 ---
@@ -36,7 +36,7 @@
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -44,7 +44,7 @@
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
