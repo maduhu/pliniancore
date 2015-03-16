@@ -29,7 +29,7 @@ Structure information.
 
 <blockquote><b>Quick Reference:</b></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote>
 <h1>Language</h1></blockquote>
@@ -49,7 +49,7 @@ Structure information.
 
 <blockquote><b>Quick Reference:</b></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote></blockquote>
 <blockquote><blockquote>
 <h2>Language Name</h2></blockquote>
@@ -58,7 +58,7 @@ Structure information.
 
 <blockquote><b>Quick Reference:</b></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
 
 </blockquote></blockquote>
 <blockquote>
@@ -71,7 +71,7 @@ Structure information.
 
 <blockquote>Location where de common name is used.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/DistributionClass'>http://code.google.com/p/pliniancore/wiki/DistributionClass</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md</a>
 </blockquote>
 <blockquote></blockquote>
 
@@ -81,7 +81,7 @@ Structure information.
 
 <blockquote><b>Quick Reference:</b></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote></blockquote>
 
@@ -93,7 +93,7 @@ Structure information.
 
 <blockquote>Ancillary Data.</blockquote>
 
-<blockquote><b>Class:</b>  <a href='http://code.google.com/p/pliniancore/wiki/AncillaryDataClass'>http://code.google.com/p/pliniancore/wiki/AncillaryDataClass</a></blockquote>
+<blockquote><b>Class:</b>  <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a></blockquote>
 
 </blockquote>
 
