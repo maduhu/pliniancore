@@ -40,7 +40,7 @@
 > <b>Class:</b>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 </blockquote></blockquote>
 
-<blockquote><h1>Version #
+> # Version #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
