@@ -72,7 +72,7 @@ References and pointers to additional resources and information (multimedia or p
 
 <blockquote>Controlled Vocavulary: Application, Audio, Image, Message, Model, Multipart, Text and Video. <a href='http://www.iana.org/assignments/media-types/index.html'>http://www.iana.org/assignments/media-types/index.html</a></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
 
 </blockquote>
 <blockquote>
@@ -94,7 +94,7 @@ References and pointers to additional resources and information (multimedia or p
 
 <blockquote>Information that cant be documented in other site.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
 
 <blockquote><h1>Ancillary Data</h1></blockquote>
 
@@ -103,4 +103,4 @@ References and pointers to additional resources and information (multimedia or p
 
 <blockquote>Ancillary information.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/AncillaryDataClass'>http://code.google.com/p/pliniancore/wiki/AncillaryDataClass</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a>
