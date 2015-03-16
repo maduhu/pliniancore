@@ -12,14 +12,14 @@ Complete and detailed account of the taxonomic and systematic characters, i.e. t
 
 > Structure diagnostic characters.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Full Description Unstructured #
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
 > Unstructured diagnostic characters.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -27,7 +27,7 @@ Complete and detailed account of the taxonomic and systematic characters, i.e. t
 
 > Ancillary Data.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 <br>
