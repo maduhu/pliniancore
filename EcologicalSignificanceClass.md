@@ -18,7 +18,7 @@ Ecological importance of the taxon. (Placeholder)
 
 > Structured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > A <b>controlled vocabulary</b>  is recommended to use by user in <b>Attribute</b> field of <b>DetailClass</b>:
 > <b>e.g.</b> Predator, Top predator, Decomposer, Disperser, Pollinator, Primary producer
