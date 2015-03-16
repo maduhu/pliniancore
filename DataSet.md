@@ -12,7 +12,7 @@ Root element from which all other elements will branch from.
 
 > Information about the collections of records
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MetadataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MetadataClass.md
 
 > # Taxon Record #
 
@@ -20,7 +20,7 @@ Root element from which all other elements will branch from.
 
 > Information about the record.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/TaxonRecordClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/TaxonRecordClass.md
 
 
 > # Ancillary Data #
@@ -28,7 +28,7 @@ Root element from which all other elements will branch from.
 > <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />  <img src='http://img6.imageshack.us/img6/1315/sequencej.jpg' width='26' height='24' />
 
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 <h3><b>Legend:</b></h3>
