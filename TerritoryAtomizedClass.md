@@ -16,7 +16,7 @@
 
 > Area contained within the shortest continuous imaginary boundary which can be drawn to encompass all the known, inferred or projected sites of present occurrence of a taxon, excluding cases of  vagrancy.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Area Of Occupancy #
 
@@ -24,7 +24,7 @@
 
 > Area within its 'extent of occurrence' (see EOO) which is occupied by a taxon, excluding cases of vagrancy. The measure reflects the fact that a taxon will not usually occur throughout the area of its extent of occurrence, which may contain unsuitable or unoccupied habitats. Reference: http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria#definitions
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailCLass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailCLass.md
 
 
 > # Ancillary Data #
@@ -33,7 +33,7 @@
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
