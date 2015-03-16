@@ -17,7 +17,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationAtomizedClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/LegislationAtomizedClass.md
 
 
 ---
@@ -31,7 +31,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
 > Information in unstructured format.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -39,7 +39,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 
