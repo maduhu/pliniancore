@@ -24,7 +24,7 @@
 
 > <b>e.g.</b> Nomenclature codes. <b>Reference:</b> http://www.iapt-taxon.org/nomen/main.php
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 
 # Ancillary Data #
@@ -33,7 +33,7 @@
 
 Ancillary information.
 
-**Class:** http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+**Class:** https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 <h2><b>Legend:</b></h2>
