@@ -14,7 +14,7 @@ Basic information to identify the record.
 
 > A unique identifier inside the database, for the species record.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # taxonConceptID #
 
@@ -41,7 +41,7 @@ Basic information to identify the record.
 
 > General description of the taxon. This concept could point out any information about the taxon.  Its main goal is summarize the most relevant  or attractive characteristics of this taxon to the general public.
 
-> <b>Class:</b>http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 <h2>Legend:**</h2>**
 
