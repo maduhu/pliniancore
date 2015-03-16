@@ -28,7 +28,7 @@ Comment about the distribution of the species based on information from the coll
 
 <blockquote><b>e.g.</b> Historical, Current, Restricted and Wide.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
 
 <blockquote><h2>Ancillary Data</h2></blockquote>
 
@@ -36,7 +36,7 @@ Comment about the distribution of the species based on information from the coll
 
 <blockquote>Ancillary information.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/AncillaryDataClass'>http://code.google.com/p/pliniancore/wiki/AncillaryDataClass</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a></blockquote>
 
 </blockquote>
 
@@ -62,7 +62,7 @@ Comment about the distribution of the species based on information from the coll
 
 > List of regions structured and categorized.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionAtomizedClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DistributionAtomizedClass.md
 
 
 
@@ -75,7 +75,7 @@ Comment about the distribution of the species based on information from the coll
 
 > Description of the distribution of the species..
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -83,7 +83,7 @@ Comment about the distribution of the species based on information from the coll
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
