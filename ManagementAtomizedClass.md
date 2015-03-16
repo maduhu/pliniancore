@@ -21,7 +21,7 @@
 
 ---
 
-> > # Objectives #
+> # Objectives #
 
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
@@ -41,20 +41,18 @@
 > # Actions #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
-<blockquote><blockquote>
-<blockquote><h2>type (Attribute)</h2></blockquote></li></ul>
 
-> <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
+> > ## type (Attribute) ##
 
-> <b>Controlled vocabulary</b> is recommended.
+> > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>e.g.</b> IUCN Conservation Actions Classification Scheme
+> > <b>Controlled vocabulary</b> is recommended.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> > <b>e.g.</b> IUCN Conservation Actions Classification Scheme
 
-</blockquote></blockquote>
+> > <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
-<blockquote><h1>Environmental Impact #
+> # Environmental Impact #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
