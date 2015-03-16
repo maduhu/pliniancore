@@ -33,7 +33,7 @@ Standard information for every known taxon.
 
 <blockquote>Ancillary Data.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/AncillaryDataClass'>http://code.google.com/p/pliniancore/wiki/AncillaryDataClass</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a></blockquote>
 
 </blockquote>
 
@@ -43,7 +43,7 @@ Standard information for every known taxon.
 
 > Different names for this taxon. This concept is a placeholder field.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymsClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/SynonymsClass.md
 
 
 > # Common Names #
@@ -52,7 +52,7 @@ Standard information for every known taxon.
 
 > A list of common names, in alphabetic order, optionally followed by language and region where it is used. For example, name1 (language, region), name2 (language, region). If language or region is omitted, it is assumed to be unknown.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/CommonNamesClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/CommonNamesClass.md
 
 > # Hierarchy #
 
@@ -60,7 +60,7 @@ Standard information for every known taxon.
 
 > Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/HierarchyClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/HierarchyClass.md
 
 
 > # Misc Details #
@@ -69,7 +69,7 @@ Standard information for every known taxon.
 
 > Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MiscDetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MiscDetailClass.md
 
 
 > # Nomenclature and Classification unstructured #
@@ -78,7 +78,7 @@ Standard information for every known taxon.
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -86,7 +86,7 @@ Standard information for every known taxon.
 
 > Ancillary Data.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 <h2><b>Legend:</b></h2>
