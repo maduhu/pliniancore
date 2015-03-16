@@ -17,7 +17,7 @@
 
 > Total number of individuals of a population
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.mp
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Density Data #
 
