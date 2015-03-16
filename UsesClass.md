@@ -21,7 +21,7 @@ Ways in which species are utilized by people. Including Folklore
 
 > Structured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UsesAtomizedClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/UsesAtomizedClass.md
 
 
 ---
@@ -34,13 +34,13 @@ Ways in which species are utilized by people. Including Folklore
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataClass.md
 
 
 
