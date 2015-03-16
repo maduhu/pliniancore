@@ -12,7 +12,7 @@
 
 > Brief description, presented in a simple technical language, to distinguish the species from other close or similar ones.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Full Description #
 
@@ -20,7 +20,7 @@
 
 > Complete and detailed account of the taxonomic and systematic characters, i.e. those that define and allow to recognize an organism.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FullDescriptionClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/FullDescriptionClass.md
 
 > # Identification Keys #
 
@@ -37,7 +37,7 @@
 
 <blockquote>Dichotomic or multientrance keys.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote></blockquote>
 <blockquote><blockquote>
 <h2>Ancillary Data</h2></blockquote>
@@ -46,7 +46,7 @@
 
 <blockquote>Ancillary Data.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/AncillaryDataClass'>http://code.google.com/p/pliniancore/wiki/AncillaryDataClass</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a></blockquote>
 
 </blockquote></blockquote>
 
@@ -57,7 +57,7 @@
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 
 
@@ -67,7 +67,7 @@
 
 > Ancillary Data.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 <h2><b>Legend:</b></h2>
