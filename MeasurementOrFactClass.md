@@ -34,4 +34,4 @@ Description of the morphology of the taxon (size, weight, perimeter, length, vol
 
 <blockquote><img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
