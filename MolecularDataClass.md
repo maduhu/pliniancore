@@ -17,7 +17,7 @@ Information on the chemical structures and biological processes at the molecular
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MolecularDataAtomizedClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MolecularDataAtomizedClass.md
 
 
 ---
@@ -29,7 +29,7 @@ Information on the chemical structures and biological processes at the molecular
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 
 > # Ancillary Data #
@@ -38,7 +38,7 @@ Information on the chemical structures and biological processes at the molecular
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
