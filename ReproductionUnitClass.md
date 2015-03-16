@@ -28,7 +28,7 @@
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Measurement Or Fact #
 
