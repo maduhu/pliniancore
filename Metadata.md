@@ -2,7 +2,7 @@
 
 Information about the collections of records.
 
-**Class:** http://code.google.com/p/pliniancore/wiki/MetadataClass
+**Class:** https://github.com/mcubillos/pliniancore/blob/wiki/MetadataClass.md
 
 <h3><b>Legend:</b></h3>
 
