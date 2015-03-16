@@ -29,4 +29,4 @@
 
 <blockquote>The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).</blockquote>
 
-<blockquote>Resources can be thought of as identifiable records and may include, but need not be limited to Occurrences, Locations, Events, Identifications, or Taxon records. For discussion see <a href='http://code.google.com/p/darwincore/wiki/ResourceRelationship'>http://code.google.com/p/darwincore/wiki/ResourceRelationship</a>
+<blockquote>Resources can be thought of as identifiable records and may include, but need not be limited to Occurrences, Locations, Events, Identifications, or Taxon records. For discussion see <a href='https://github.com/mcubillos/pliniancore/blob/wiki/ResourceRelationship.md'>https://github.com/mcubillos/pliniancore/blob/wiki/ResourceRelationship.md</a>
