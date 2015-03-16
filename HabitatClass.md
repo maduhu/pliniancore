@@ -17,7 +17,7 @@ General description of the sites where the species is found (ecosystem, forest, 
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > A controlled vocabulary is recommended to use by user in <b>Atrribute</b> field of <b>DetailClass</b>.
 
@@ -37,7 +37,7 @@ EUNIS
 
 > Unstrutured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -45,7 +45,7 @@ EUNIS
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
