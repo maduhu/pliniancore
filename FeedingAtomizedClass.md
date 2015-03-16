@@ -37,7 +37,7 @@
 - Martínez-Ramos, M. 2008. Grupos Funcionales. In J. Soberón, G. Halffter and J. Llorente Bousquets (Eds.), Capital Natural de México Vol. I, pp. 365-412. México Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.<br>
 - Sadava D., D. M. Hills, et al. 2011. Life, the science of biology. Sinauer Associates Inc., Gordonsville USA.<br></blockquote></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
 
 
 <blockquote><h1>Thropic Strategy Remarks</h1></blockquote>
@@ -46,7 +46,7 @@
 
 <blockquote>Information notes about specific strategy of feeding.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
 
 <blockquote><h1>Ancillary Data</h1></blockquote>
 
@@ -54,7 +54,7 @@
 
 <blockquote>Ancillary information.</blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/AncillaryDataClass'>http://code.google.com/p/pliniancore/wiki/AncillaryDataClass</a></blockquote>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a></blockquote>
 
 <h2><b>Legend:</b></h2>
 
