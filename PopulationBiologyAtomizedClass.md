@@ -17,7 +17,7 @@
 
 > Total number of individuals of a population
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.mp
 
 > # Density Data #
 
@@ -26,7 +26,7 @@
 > Size of a population in relation to a definite unit of space.
 
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Pattern Distribution #
 
@@ -43,7 +43,7 @@
 > 3. Random: distribution in which the position of each individual is independent of the others (Smith & Smith, 2003).
 
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Size #
 
@@ -52,7 +52,7 @@
 
 > Estimation of the size, usually expressed as a range, of the populations of a species. (E.g. “total population size is estimated between 200,000 to 400,000 ducks in its distribution area”).
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Sex Ratio #
 
@@ -60,7 +60,7 @@
 
 > The relative number of males to females in a population
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Fecundity #
 
@@ -68,7 +68,7 @@
 
 > Potential ability of an organism to produce eggs or young; rate of production of young by a female
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Mortality Rate #
 
@@ -76,7 +76,7 @@
 
 > The probability of dying; the ratio of number dying in a given time interval to the number alive at the beginning of the time interval
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Birth Rate #
 
@@ -84,7 +84,7 @@
 
 > Production of new individuals in a population
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Number Individuals Per Observation #
 
@@ -92,7 +92,7 @@
 
 > In case of having census data
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Average Density #
 
@@ -100,7 +100,7 @@
 
 > Average of the densities obtained for a population
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Population Trend #
 
@@ -110,7 +110,7 @@
 
 > <b>e.g.</b> Stable, Increasing and Dreasing.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > <b>References:</b>
 
@@ -122,7 +122,7 @@
 
 > Proportion of plants or animals that reach a size or age when they become less vulnerable to a change in their environment. Stage in which plants or animals can be consumed and can survive, as well as reproduce.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Population Growth Rate #
 
@@ -130,7 +130,7 @@
 
 > Rate that estimates the annual growth rate of a population based on the births, rates, emigration and immigration.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Emigration #
 
@@ -138,7 +138,7 @@
 
 > Movement of individuals outside a population, or from one area to another.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Immigration #
 
@@ -146,7 +146,7 @@
 
 > Individuals entering a population.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Description Life Stages #
 
@@ -154,7 +154,7 @@
 
 > Sex/age categories or life stages of a species; can be size in the case of plants.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Proportion Individuals Per Stage Life #
 
@@ -162,7 +162,7 @@
 
 > Percentage of individuals that belong to each life stage
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 > # Carrying Capacity #
 
@@ -170,14 +170,14 @@
 
 > Maximum population density defined by resources in the absence of predator and parasites.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
 
 
 > # Ancillary Data #
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 <br>
 
