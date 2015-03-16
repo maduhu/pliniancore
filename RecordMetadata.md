@@ -27,7 +27,6 @@
 
 >> The recommended controlled vocabulary list includes:
 |01. Expert (High).|
-|:-----------------|
 |02. Knowledgeable (Medium).|
 |03. General (Low).|
 
