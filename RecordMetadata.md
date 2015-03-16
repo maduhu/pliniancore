@@ -36,7 +36,7 @@
 >> List audience codes separated by means of comma or /.
 
 >> <b>Class:</b>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
-</blockquote></blockquote>
+
 
 > # Version #
 
