@@ -18,7 +18,7 @@ Information associated mostly to vertebrates, referring to the territorial exten
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TerritoryAtomizedClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/TerritoryAtomizedClass.md
 
 
 ---
@@ -29,7 +29,7 @@ Information associated mostly to vertebrates, referring to the territorial exten
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -37,7 +37,7 @@ Information associated mostly to vertebrates, referring to the territorial exten
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
