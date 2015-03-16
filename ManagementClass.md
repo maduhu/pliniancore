@@ -23,109 +23,109 @@
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 
 > # Management Plan #
 
 > <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 <blockquote>
 <blockquote><h2>Administrative Management</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote>
 <h2>Technical Managementt</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote>
 <h2>Population Performance</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote>
 <h2>Control Information</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote><blockquote>
 <blockquote><h3>Monitoring Procedure</h3></blockquote></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote></blockquote>
 <blockquote><blockquote>
 <h3>Used Tools</h3></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote></blockquote>
 </blockquote>> # Finance Information #
 
 > <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 <blockquote>
 <blockquote><h2>Initial Investment</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote>
 <h2>Maintenance Cost</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 <blockquote>
 <h2>Commercialization</h2></blockquote>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='http://code.google.com/p/pliniancore/wiki/NormalString'>http://code.google.com/p/pliniancore/wiki/NormalString</a>
+<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
 </blockquote>
 </blockquote>> # Population Plantation Threats #
 
 > <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 <blockquote>
 <blockquote><h2>Description</h2></blockquote></li></ul>
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 </blockquote>
 <blockquote>
 > ## Control ##
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 </blockquote></blockquote>
 
 <blockquote><h1>Environmental Impact #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 
 > # Management Unstructured #
@@ -134,7 +134,7 @@
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 # Ancillary Data #
 
@@ -142,4 +142,4 @@
 
 Ancillary information.
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
+<b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataClass.md
