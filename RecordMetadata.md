@@ -49,7 +49,7 @@
 > # Revision #
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
-> > Creators, revision status and dates of the entire data collection.
+>  Creators, revision status and dates of the entire data collection.
 
 
 > <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/RevisionClass.md
