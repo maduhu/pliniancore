@@ -31,7 +31,7 @@ Life history of a living organism: The course of developmental changes in an org
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -39,7 +39,7 @@ Life history of a living organism: The course of developmental changes in an org
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
