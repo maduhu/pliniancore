@@ -35,4 +35,4 @@
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
 
-> <b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+> <b>Quick Reference:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFactClass.md
