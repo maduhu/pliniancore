@@ -17,27 +17,25 @@
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img266.imageshack.us/img266/2791/choice.jpg' width='26' height='24' />
 
 > Users to which the information is addressed. The defined audiences are: Biodiversity researchers, teachers and students, decision makers, professionals from another areas and general public.
-<blockquote></li></ul>
 
-<blockquote>## Audience ##
 
-> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
+>> ## Audience ##
 
-> Repetitive concept where the target audiences are written one by one.
+>> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
-> The recommended controlled vocabulary list includes:
+>> Repetitive concept where the target audiences are written one by one.
+
+>> The recommended controlled vocabulary list includes:
 |01. Expert (High).|
 |:-----------------|
 |02. Knowledgeable (Medium).|
 |03. General (Low).|
-</blockquote>
-<blockquote>
 
-> ## Audiences Unstructured ##
+>> ## Audiences Unstructured ##
 
-> List audience codes separated by means of comma or /.
+>> List audience codes separated by means of comma or /.
 
-> <b>Class:</b>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+>> <b>Class:</b>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 </blockquote></blockquote>
 
 > # Version #
