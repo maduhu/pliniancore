@@ -16,7 +16,7 @@ Information related to supply food for the development and sustenance of the ind
 
 > <b>Controlled vocabulary.</b>
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FeedingAtomizedClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/FeedingAtomizedClass.md
 
 
 ---
@@ -28,7 +28,7 @@ Information related to supply food for the development and sustenance of the ind
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -36,7 +36,7 @@ Information related to supply food for the development and sustenance of the ind
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 
