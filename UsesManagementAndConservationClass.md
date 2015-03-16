@@ -16,7 +16,7 @@
 
 > Ways in which species are utilized by people. Including Folklore
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UsesClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/UsesClass.md
 
 > # Management and Conservation #
 
@@ -24,7 +24,7 @@
 
 > Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementAndConservationClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/ManagementAndConservationClass.md
 
 
 ---
@@ -38,7 +38,7 @@
 
 > Unstructured information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 > # Ancillary Data #
 
@@ -46,7 +46,7 @@
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 
 ---
