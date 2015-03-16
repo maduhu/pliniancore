@@ -9,7 +9,7 @@
 > <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' /> <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFactClass.md
 
 > # Type #
 
@@ -19,7 +19,7 @@
 
 > <b>e.g.</b> Zoochory, Anemochory, Hydrochory, Barochory, Autochory
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Structure Dispersed #
 
@@ -29,7 +29,7 @@
 
 > <b>e.g.</b> Seed, Fruit, Vegetative structure, Spores, Gametes, Eggs, Offspring and Individuals
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Distance #
 
@@ -37,7 +37,7 @@
 
 > <b>e.g.</b> Dispersal distance 450 m
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFactClass.md
 
 
 > # Ancillary Data #
@@ -46,7 +46,7 @@
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 <b>References:</b>
 > - De Noir, F. A., S. Bravo, et al. 2002. Mecanismos de dispersión de algunas especies leñosas nativas del Chaco Occidental y Serrano. Quebracho, Revista de Ciencias Forestales 9: 140-150.
