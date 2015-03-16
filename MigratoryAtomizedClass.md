@@ -13,7 +13,7 @@
 
 > <b>e.g.</b> Seasonal climatic variation, Resource availability and Reproduction
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Patterns #
 
@@ -23,7 +23,7 @@
 
 > <b>e.g.</b> Latitudinal, Longitudinal , Altitudinal , Vertical in water columns and Local migrant
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Routes #
 
@@ -31,7 +31,7 @@
 
 > Trajectory followed by the species
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 
 > # Season #
@@ -40,7 +40,7 @@
 
 > Time of year in which a species migrates. A <b>controlled vocabulary</b> is recommended.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
 
 > # Ancillary Data #
 
@@ -48,7 +48,7 @@
 
 > Ancillary information.
 
-> <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
 
 > <b>References:</b>
 > > - Cook W. C. 1967. Life history, host plants and migrations of the beet leafhopper in the Western United States. Agricultural Research Service, U.S. Dept. of Agriculture. <br>
