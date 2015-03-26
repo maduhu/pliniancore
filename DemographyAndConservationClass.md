@@ -31,7 +31,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Information associated mostly to vertebrates, referring to the territorial extension of the individual or group in terms of its activities (feeding, mating, etc.)
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/TerritoryClass.md
+> <b>Class:</b> [TerritoryClass.md] (../wiki/TerritoryClass.md)
 
 
 > # Population Biology #
@@ -40,7 +40,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Study of the variations in time and space as well as size and density of populations, and the factors that cause such variations.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/PopulationBiologyClass.md
+> <b>Class:</b> [PopulationBiologyClass.md] (../wiki/PopulationBiologyClass.md)
 
 > # Threat Status #
 
@@ -54,7 +54,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Description of the threat status.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> <a href='../wiki/NormalString.md'>NormalString.md</a>
 
 > ## Authority ##
 
@@ -62,7 +62,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Criteria apply to assess threat status.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> <a href='../wiki/NormalString.md'>NormalString.md</a>
 
 
 > ## Applies To ##
@@ -71,7 +71,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Location where the status is used.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md
+> <b>Class:</b> <a href='../wiki/DistributionClass.md'>DistributionClass.md</a> 
 
 > ## Ancillary Data ##
 
@@ -79,7 +79,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> <a href='../wiki/AncillaryDataClass.md'>AncillaryDataClass.md</a>
 </blockquote></blockquote>
 </li></ul><blockquote><h1>Direct Threats</h1></blockquote>
 
@@ -87,7 +87,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 <blockquote>Direct threats are the proximate human activities or processes that have caused, are causing, or may cause the destruction, degradation, and/or impairment of biodiversity targets (e.g., unsustainable fishing or logging). Direct threats are synonymous with sources of stress and proximate pressures. Threats can be past (historical), ongoing, and/or likely to occur in the future.</blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/DetailClass.md'>DetailClass.md</a></blockquote>
 
 <blockquote><h1>Legislation</h1></blockquote>
 
@@ -95,7 +95,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 <blockquote>A national proposed  law or group of laws. A regional proposed  law or group of laws.</blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/LegislationClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/LegislationClass.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/LegislationClass.md'>LegislationClass.md</a></blockquote>
 
 <h1>Demography and Conservation Unstructured</h1>
 
@@ -103,7 +103,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 Unstructured information.<br>
 <br>
-<b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a>
+<b>Class:</b><a href='../wiki/NormalString.md'>NormalString.md</a>
 
 <h1>Ancillary Data</h1>
 
@@ -111,4 +111,4 @@ Unstructured information.<br>
 
 Ancillary information.<br>
 <br>
-<b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a>
+<b>Class:</b> <a href='../wiki/AncillaryDataClass.md'>AncillaryDataClass.md</a>
