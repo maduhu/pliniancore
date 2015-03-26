@@ -11,7 +11,7 @@
 
 > A <b>controlled vocabulary</b> is recommended.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # start Time Interval #
 
