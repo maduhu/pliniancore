@@ -11,7 +11,7 @@ Structure information.
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md] (../wiki/NormalString.md)
 
 
 > # Language #
@@ -26,13 +26,13 @@ Structure information.
 
 > Location where de common name is used.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md
+> <b>Class:</b> [DistributionClass.md] (../wiki/DistributionClass.md)
 
 > # Used By #
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md] (../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -40,7 +40,7 @@ Structure information.
 
 > Ancillary Data.
 
-> <b>Class:</b>  https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md] (../wiki/AncillaryDataClass.md)
 
 <br>
 
