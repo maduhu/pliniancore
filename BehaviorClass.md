@@ -21,7 +21,7 @@ Responses, reactions or movements made by an organism in a particular situation.
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 
 ---
@@ -33,7 +33,7 @@ Responses, reactions or movements made by an organism in a particular situation.
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Ancillary Data #
 
@@ -41,7 +41,7 @@ Responses, reactions or movements made by an organism in a particular situation.
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 <br>
 <h2><b>Legend:</b></h2>
