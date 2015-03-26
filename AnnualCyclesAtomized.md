@@ -24,13 +24,13 @@
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Time Interval #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 # Ancillary Data #
 
@@ -38,4 +38,4 @@
 
 Ancillary information.
 
-<b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+<b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md) 
