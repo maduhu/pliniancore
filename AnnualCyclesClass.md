@@ -19,7 +19,7 @@ Set of changes or events that recurrently take place at the same time of year an
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AnnualCyclesAtomizedClass.md
+> <b>Class:</b> [AnnualCyclesAtomizedClass.md](../wiki/AnnualCyclesAtomizedClass.md) 
 
 
 ---
@@ -33,7 +33,7 @@ Set of changes or events that recurrently take place at the same time of year an
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)  
 
 > # Ancillary Data #
 
@@ -41,7 +41,7 @@ Set of changes or events that recurrently take place at the same time of year an
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
