@@ -24,7 +24,7 @@
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/UsesClass.md
+> <b>Class:</b> [UsesClass.md](../wiki/UsesClass.md) 
 
 > # Folklore #
 
@@ -32,10 +32,10 @@
 
 > Known myths or legends that people or literature contribute about the species.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/FolkloreClass.md
+> <b>Class:</b> [FolkloreClass.md](../wiki/FolkloreClass.md) 
 
 > # Management and Conservation #
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/ManagementClass.md
+> <b>Class:</b> [ManagementClass.md](../wiki/ManagementClass.md) 
