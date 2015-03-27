@@ -19,7 +19,7 @@ Study of the variations in time and space as well as size and density of populat
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/PopulationBiologyAtomizedClass.md
+> <b>Class:</b> [PopulationBiologyAtomizedClass.md](../wiki/PopulationBiologyAtomizedClass.md)
 
 
 ---
@@ -31,14 +31,14 @@ Study of the variations in time and space as well as size and density of populat
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 
 > # Ancillary Data #
 
 > <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
