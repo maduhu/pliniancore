@@ -17,7 +17,7 @@ The permanent spreading of individuals away from each other not including return
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DispersalAtomizedClass.md
+> <b>Class:</b> [DispersalAtomizedClass.md](../wiki/DispersalAtomizedClass.md)
 
 
 ---
@@ -29,7 +29,7 @@ The permanent spreading of individuals away from each other not including return
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b>[NormalString.md](../wiki/NormalString.md) 
 
 > # Ancillary Data #
 
@@ -37,7 +37,7 @@ The permanent spreading of individuals away from each other not including return
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b>[AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 ---
 
