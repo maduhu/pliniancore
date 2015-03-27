@@ -25,7 +25,7 @@
 
 > <b>Quick Reference:</b>
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Item Value #
 
@@ -33,7 +33,7 @@
 
 > <b>Quick Reference:</b>
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -41,4 +41,4 @@
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataClass.md
+> <b>Class:</b> [AncilliaryDataClass.md](../wiki/AncilliaryDataClass.md)
