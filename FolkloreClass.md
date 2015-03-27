@@ -23,8 +23,7 @@
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
-
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md) 
 
 > # Folklore Unstructured #
 
@@ -32,10 +31,10 @@
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 # Ancillary Data #
 
 <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-<b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataType.md
+<b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
