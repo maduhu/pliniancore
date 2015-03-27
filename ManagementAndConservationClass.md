@@ -19,7 +19,7 @@ Management: actions directed at conserving or restoring species / Conservation: 
 
 > <b>Controlled vocanulary</b> is recommended.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/ManagementAtomizedClass.md
+> <b>Class:</b> [ManagementAtomizedClass.md](../wiki/ManagementAtomizedClass.md)
 
 
 
@@ -34,7 +34,7 @@ Management: actions directed at conserving or restoring species / Conservation: 
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -42,7 +42,7 @@ Management: actions directed at conserving or restoring species / Conservation: 
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataClass.md
+> <b>Class:</b> [AncilliaryDataClass.md](../wiki/AncilliaryDataClass.md) 
 
 
 ---
