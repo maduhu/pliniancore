@@ -34,7 +34,7 @@
 
 >> List audience codes separated by means of comma or /.
 
->> <b>Class:</b>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+>> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 
 > # Version #
@@ -43,7 +43,7 @@
 
 > Number and date of the current version.
 
-> <b>Clas:</b>https://github.com/mcubillos/pliniancore/blob/wiki/VersionClass.md
+> <b>Clas:</b> [VersionClass.md](../wiki/VersionClass.md)
 
 > # Revision #
 
@@ -51,7 +51,7 @@
 >  Creators, revision status and dates of the entire data collection.
 
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/RevisionClass.md
+> <b>Class:</b> [RevisionClass.md](../wiki/RevisionClass.md)
 
 
 <h2><b>Legend:</b></h2>
