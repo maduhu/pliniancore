@@ -22,7 +22,7 @@ Interactions in structured format.
 
 > Notes about the interactions.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Interaction Species Type #
 
@@ -35,7 +35,7 @@ Interactions in structured format.
 > <b>References:</b>
 > > - Futuyma, D.J. 1998. Evolutionary Biology, Third Edition. Sinauer Associates, Inc. EUA. <br></li></ul></li></ul>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/NormalString.md'>NormalString.md</a></blockquote>
 
 <blockquote><h1>Ancillary Data</h1></blockquote>
 
@@ -43,7 +43,7 @@ Interactions in structured format.
 
 <blockquote>Ancillary information.</blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.mp</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/AncillaryDataClass.md'>AncillaryDataClass.mp</a></blockquote>
 
 
 ---
