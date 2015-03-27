@@ -27,7 +27,7 @@
 
 > Controlled vocabulary: Seasonal climatic variation, Resource availability and Reproduction
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Patterns #
 
@@ -35,7 +35,7 @@
 
 > Controlled vocabulary: Latitudinal, Longitudinal , Altitudinal , Vertical in water columns and Local migrant
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Routes #
 
@@ -43,7 +43,7 @@
 
 > Trajectory followed by the species
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 
 > # Season #
@@ -52,4 +52,4 @@
 
 > Time of year in which a species migrates.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
