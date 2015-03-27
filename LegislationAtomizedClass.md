@@ -15,7 +15,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
 > Word or phrase to designate the law or group of laws.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Protection Legal Status #
 
@@ -23,7 +23,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
 > Description of the status.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 
 > # Ancillary Data #
@@ -32,7 +32,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
