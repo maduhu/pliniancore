@@ -20,7 +20,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Information associated mostly to vertebrates, referring to the territorial extension of the individual or group in terms of its activities (feeding, mating, etc.)
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/TerritoryClass.md
+> <b>Class:</b> [TerritoryClass.md](../wiki/TerritoryClass.md)
 
 
 > # Population Biology #
@@ -29,7 +29,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Study of the variations in time and space as well as size and density of populations, and the factors that cause such variations.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/PopulationBiologyClass.md
+> <b>Class:</b> [PopulationBiologyClass.md](../wiki/PopulationBiologyClass.md)
 
 > # Threat Status #
 
@@ -53,7 +53,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 <blockquote>Organism or institution that assess the status.</blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/NormalString.md'>NormalString.md</a></blockquote>
 
 
 <blockquote><h2>Applies To</h2></blockquote>
@@ -62,7 +62,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 <blockquote>Location where the status is used.</blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/DistributionClass.md'>DistributionClass.md</a></blockquote>
 
 <blockquote><h2>Ancillary Data</h2></blockquote>
 
@@ -70,7 +70,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 <blockquote>Ancillary information.</blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md'>https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md</a>
+<blockquote><b>Class:</b> <a href='../wiki/AncillaryDataClass.md'>AncillaryDataClass.md</a>
 </blockquote></blockquote>
 </blockquote>> # Direct Threats #
 
@@ -82,7 +82,7 @@ Information concerning the demographic aspects of the species, as well as the co
 > A <b>controlled vocabulary</b>  is recommended to use by user in <b>Attribute</b> field of <b>DetailClass</b>.
 > <b>e.g.</b> IUCN Threats Classification Scheme
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 > # Legislation #
 
@@ -90,7 +90,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/LegislationClass.md
+> <b>Class:</b> [LegislationClass.md](../wiki/LegislationClass.md)
 
 
 ---
@@ -103,7 +103,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Ancillary Data #
 
@@ -111,7 +111,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
