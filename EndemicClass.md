@@ -20,7 +20,7 @@ Organism that lives exclusively in a particular territory and not found anywhere
 
 > List of areas structured and categorized the degree of safety.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/EndemicAtomizedClass.md
+> <b>Class:</b> [EndemicAtomizedClass.md](../wiki/EndemicAtomizedClass.md)
 
 
 ---
@@ -34,7 +34,7 @@ Organism that lives exclusively in a particular territory and not found anywhere
 
 > List of areas presented in an unstructured and categorized the degree of safety.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 
 > # Ancillary Data #
@@ -43,7 +43,7 @@ Organism that lives exclusively in a particular territory and not found anywhere
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 ---
 
