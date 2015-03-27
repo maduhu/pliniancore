@@ -19,7 +19,7 @@
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/InvasivenessAtomizedClass.md
+> <b>Class:</b> [InvasivenessAtomizedClass.md](../wiki/InvasivenessAtomizedClass.md)
 
 
 ---
@@ -32,13 +32,13 @@
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
