@@ -10,7 +10,7 @@ Miscellaneus information in structure format.
 
 > A controlled vocabulary is recommended.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b>  [NormalString.md](../wiki/NormalString.md)
 
 > # Value #
 
@@ -18,13 +18,13 @@ Miscellaneus information in structure format.
 
 > A controlled vocabulary is recommended.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b>  [NormalString.md](../wiki/NormalString.md)
 
 > # Measurement Or Fact #
 
 > <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFact.md
+> <b>Class:</b>  [MeasurementOrFact.md](../wiki/MeasurementOrFact.md)
 
 > # Ancillary Data #
 
@@ -32,7 +32,7 @@ Miscellaneus information in structure format.
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataClass.md
+> <b>Class:</b>  [AncilliaryDataClass.md](../wiki/AncilliaryDataClass.md)
 
 <br>
 
