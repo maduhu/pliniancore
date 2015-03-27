@@ -1,3 +1,3 @@
-**Quick Reference:** https://github.com/mcubillos/pliniancore/blob/wiki/NomenclatureAndClassificationClass.md
+**Quick Reference:** [NomenclatureAndClassificationClass.md](../wiki/NomenclatureAndClassificationClass.md)
 
 Standard information for every known taxon.
