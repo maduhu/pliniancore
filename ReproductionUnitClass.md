@@ -28,11 +28,11 @@
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img198.imageshack.us/img198/6134/unoinfinito.jpg' width='26' height='24' />
 
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 > # Measurement Or Fact #
 
 > <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
 
-> <b>Quick Reference:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFactClass.md
+> <b>Quick Reference:</b> [MeasurementOrFactClass.md](../wiki/MeasurementOrFactClass.md)
