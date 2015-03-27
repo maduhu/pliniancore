@@ -20,7 +20,7 @@ Distribution of the species
 
 > General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/HabitatClass.md
+> <b>Class:</b> [HabitatClass.md](../wiki/HabitatClass.md)
 
 > # Distribution #
 
@@ -28,7 +28,7 @@ Distribution of the species
 
 > Species geographical  distribution.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DistributionClass.md
+> <b>Class:</b> [DistributionClass.md](../wiki/DistributionClass.md)
 
 
 > # Endemic #
@@ -37,7 +37,7 @@ Distribution of the species
 
 > Organism that lives exclusively in a particular territory and not found anywhere else.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/EndemicClass.md
+> <b>Class:</b> [EndemicClass.md](../wiki/EndemicClass.md)
 
 
 ---
@@ -49,14 +49,14 @@ Distribution of the species
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 
 > # Ancillary Data #
 
 > <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
