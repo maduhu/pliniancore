@@ -18,7 +18,7 @@ Ecological importance of the taxon. (Placeholder)
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 > A <b>controlled vocabulary</b>  is recommended to use by user in <b>Attribute</b> field of <b>DetailClass</b>:
 > <b>e.g.</b> Predator, Top predator, Decomposer, Disperser, Pollinator, Primary producer
@@ -37,7 +37,7 @@ Ecological importance of the taxon. (Placeholder)
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Ancillary Data #
 
@@ -45,7 +45,7 @@ Ecological importance of the taxon. (Placeholder)
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
