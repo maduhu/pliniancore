@@ -19,7 +19,7 @@ Mutual or reciprocal actions or influences.  For example, predation, parasitism,
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/InteractionAtomizedClass.md
+> <b>Class:</b> [InteractionAtomizedClass.md](../wiki/InteractionAtomizedClass.md)
 
 
 ---
@@ -33,7 +33,7 @@ Mutual or reciprocal actions or influences.  For example, predation, parasitism,
 
 > Unstructured format.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -41,7 +41,7 @@ Mutual or reciprocal actions or influences.  For example, predation, parasitism,
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 ---
 
