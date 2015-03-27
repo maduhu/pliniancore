@@ -18,7 +18,7 @@ The regular, usually seasonal, movement of all or part of an animal population t
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MigratoryAtomizedClass.md
+> <b>Class:</b> [MigratoryAtomizedClass.md](../wiki/MigratoryAtomizedClass.md)
 
 
 ---
@@ -32,7 +32,7 @@ The regular, usually seasonal, movement of all or part of an animal population t
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Ancillary Data #
 
@@ -40,7 +40,7 @@ The regular, usually seasonal, movement of all or part of an animal population t
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 ---
 
