@@ -23,7 +23,7 @@ Are also applied to Animals and Fungis
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/NormalString.md'>NormalString.md</a></blockquote>
 
 </blockquote>
 <blockquote>
@@ -46,7 +46,7 @@ Are also applied to Animals and Fungis
 
 > <b>Controlled vocabulary</b> is reocmmended.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Part Used #
 
@@ -54,7 +54,7 @@ Are also applied to Animals and Fungis
 
 > Acc. TDWG Economic Botany. Whi ch plant parts are used, or have any negative va lues ?
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Users #
 
@@ -62,7 +62,7 @@ Are also applied to Animals and Fungis
 
 > Acc. TDWG Economic Botany. Who recognises the value of t he pla nt? State ethnic group (tribe/caste /sect etc. with language/dialect, locality/a rea ).
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 
 > # Organisms #
@@ -71,7 +71,7 @@ Are also applied to Animals and Fungis
 
 > Acc. TDWG Economic Botany. Which organisms use t he plant/plant parts (e.g . for forage , medicines) or are affect ed by the plant (e.g. by poisons)?
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Vernacular Name Use Annotations #
 
@@ -79,7 +79,7 @@ Are also applied to Animals and Fungis
 
 > Acc. TDWG Economic Botany. The name of the ta xon mus t be distinguished from the name of plant parts, the names of any processing stages, and the final product. Names used in trade should be identified. It should also be mentioned if any vernacular name refe rs t o more t han one ta xon. The use of some names may be restricted to a time of year or occasion, or have sacred connotations. The language and dialect to whi ch the names belong should be stated along wi t h details of ethnic group . Care should be t aken with transl iteration int o the Roman alphabet; if a standard system exists, use it and note which one it is.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Production Details #
 
@@ -89,7 +89,7 @@ Are also applied to Animals and Fungis
 details of cultivation, harvesting , yie lds, processing and storage methods and take note
 of specia l t ools, t iming etc.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Means Of Application-Administration #
 
@@ -98,7 +98,7 @@ of specia l t ools, t iming etc.
 > Acc. TDWG Economic Botany. This is of particular relevance to medicines,
 poisons (e.g. insecticides), so cial products and some environmental purposes (e.g.f ert ilisers).
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Season Of Availability-Use #
 
@@ -106,7 +106,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Botany. Note these and , if relevant, time of day.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Conservation-Explotation Data #
 
@@ -114,7 +114,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Botany. Record frequency of plants, details of rege neration, sustainabi lity or over-exploitation and note any locally imposed bans on felling or harvesting.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Use-TypeAtomized #
 
@@ -122,7 +122,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Is it a traditional, modern indust rial or just a possible use?
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Economics #
 
@@ -130,7 +130,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Botany. Is t here trade in the live plants, plant parts, or derived products , and , if so , on what scale?
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Rating Popularity #
 
@@ -138,7 +138,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Botany. Is the plant highly valued for its use or are ot her species pref erred and , if so, which? Try to record factors influencing any preference, e.g. rarity, inaccessi bilit y, depleted source, or low quality, ineffecti veness, difficult harvesting or proc essing requi rements.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Properties #
 
@@ -146,7 +146,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Botany. Provide details of properties which influence its value for a specified purp ose, e.g . nutritional value for foods; occurrence of bioactive compounds for med icines/poisons; mechanical and physical properties of woods; nectar flow periods and flowering dates for bee plants; calorific values and burning qualities of fuels; sizes of plants used environmentally etc.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Potential #
 
@@ -154,13 +154,13 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Acc. TDWG Economic Botany. Coul d the use , cultivation, manufacture of products etc. be increased and /or introduced to other areas or social groups?
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Use Notes #
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -168,7 +168,7 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 ---
