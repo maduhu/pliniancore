@@ -3,7 +3,7 @@
 
 Standard information for every known taxon: Taxon Record Name, Synomyms, Common Names, Hierarchy, Misc. Details and Ancillary Data.
 
-**Quick Reference:** https://github.com/mcubillos/pliniancore/blob/wiki/NomenclatureAndClassificationClass.md
+**Quick Reference:** [NomenclatureAndClassificationClass.md](../wiki/NomenclatureAndClassificationClass.md)
 
 
 
