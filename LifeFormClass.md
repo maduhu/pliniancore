@@ -24,7 +24,7 @@ General appearance. Characteristic mode of growth or occurrence associated to it
 > e.g. Tree, shrubs, herbs (Raunkiær plant life-form system.
 > <b>Reference:</b> http://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 
 ---
@@ -37,7 +37,7 @@ General appearance. Characteristic mode of growth or occurrence associated to it
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -45,7 +45,7 @@ General appearance. Characteristic mode of growth or occurrence associated to it
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 ---
 
