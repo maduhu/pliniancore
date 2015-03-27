@@ -27,7 +27,7 @@
 
 > The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFactClass.md
+> <b>Class:</b> [MeasurementOrFactClass.md](../wiki/MeasurementOrFactClass.md)
 
 > # Environmental Unstructured #
 
@@ -35,10 +35,10 @@
 
 > Unstructured format.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 # Ancillary Data #
 
 <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-<b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+<b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
