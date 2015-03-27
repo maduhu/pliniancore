@@ -1,1 +1,1 @@
-**Quick Reference:** https://github.com/mcubillos/pliniancore/blob/wiki/UsesAndManagementClass.md
+**Quick Reference:** [UsesAndManagementClass.md](../wiki/UsesAndManagementClass.md) 
