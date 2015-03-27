@@ -34,4 +34,4 @@ Hierarchical categories. Modified from Linnean Core. Option: fill all or princip
 |Infraspecific Epithet|xs:string|The name of the lowest or terminal infraspecific epithet of the scientificName, excluding any rank designation.|http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#infraspecificEpithet|
 |higher Classification|dwc:higherClassification|A list (concatenated and separated) of taxa names terminating at the rank immediately superior to the taxon referenced in the taxon record. Recommended best practice is to order the list starting with the highest rank and separating the names for each rank with a semi-colon (";").|http://rs.tdwg.org/dwc/terms/higherClassification|
 |Parent Taxon|xs:string|ID Parent Taxon|  |
-|Ancillary Data|  |  |Class: https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md|
+|Ancillary Data|  |  |Class: [AncillaryDataClass.md](../wiki/AncillaryDataClass.md) |
