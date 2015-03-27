@@ -25,7 +25,7 @@ Set of environmental conditions within which it is believed that the species can
 
 > e.g.Environmental ranges in which organisms live (e.g. annual precipitation/average/450/mm)
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/MeasurementOrFactClass.md
+> <b>Class:</b> [MeasurementOrFactClass.md](../wiki/MeasurementOrFactClass.md)
 
 > <b>References:</b>
 
@@ -36,8 +36,7 @@ Set of environmental conditions within which it is believed that the species can
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
-
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 ---
 
@@ -46,7 +45,7 @@ Set of environmental conditions within which it is believed that the species can
 
 <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img19.imageshack.us/img19/4356/infinitol.jpg' width='26' height='24' />
 
-<b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+<b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 <h2><b>Legend:</b></h2>
 
