@@ -27,14 +27,14 @@ Ecological importance of the taxon. (Placeholder).
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 
 > # Ecological Unstructured #
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 # Ancillary Data #
 
@@ -42,4 +42,4 @@ Ecological importance of the taxon. (Placeholder).
 
 Ancillary information.
 
-<b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+<b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
