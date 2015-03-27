@@ -13,7 +13,7 @@ Information about the collections of records.
 
 > An identifier for the set of data.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Icon URI #
 
@@ -36,7 +36,7 @@ Information about the collections of records.
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b>  <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
+<blockquote><b>Class:</b>  <a href='../wiki/NormalString.md'>NormalString.md</a></blockquote>
 
 </blockquote>
 
@@ -69,7 +69,7 @@ Information about the collections of records.
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/RevisionClass.md
+> <b>Class:</b> [RevisionClass.md](../wiki/RevisionClass.md)
 
 > # IPR Statements #
 
@@ -95,7 +95,7 @@ Information about the collections of records.
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/VersionClass.md
+> <b>Class:</b> [VersionClass.md](../wiki/VersionClass.md) 
 
 > # keyword Set #
 
