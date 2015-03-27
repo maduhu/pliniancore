@@ -12,7 +12,7 @@
 
 > # Related To #
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b>  [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -20,7 +20,7 @@
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 <br>
