@@ -20,7 +20,7 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
 
 > Structured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/DetailClass.md
+> <b>Class:</b> [DetailClass.md](../wiki/DetailClass.md)
 
 
 ---
@@ -34,7 +34,7 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Ancillary Data #
 
@@ -42,8 +42,7 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncilliaryDataClass.md
-
+> <b>Class:</b> [AncilliaryDataClass.md](../wiki/AncilliaryDataClass.md)
 
 ---
 
