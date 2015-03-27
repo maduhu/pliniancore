@@ -26,7 +26,7 @@
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' /> <img src='http://imageshack.us/a/img16/5397/multipleg.jpg' width='26' height='24' /> <img src='http://img6.imageshack.us/img6/1315/sequencej.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 <blockquote>
 
@@ -34,7 +34,7 @@
 
 <blockquote><img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' /></blockquote>
 
-<blockquote><b>Class:</b> <a href='https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md'>https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md</a></blockquote>
+<blockquote><b>Class:</b> <a href='../wiki/NormalString.md'>NormalString.md</a></blockquote>
 
 </blockquote>
 <blockquote>
@@ -55,7 +55,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Part Used #
 
@@ -63,7 +63,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Users #
 
@@ -71,7 +71,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Vernacular Name Use Annotations #
 
@@ -79,7 +79,7 @@
 
 > Acc. TDWG Economic Botany. The name of the taxon should be distinguished from part5 names. Name may be restricted to a time of the year or occasion, or have sacred connotations
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Use-Value #
 
@@ -87,7 +87,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 > # Production Details #
 
@@ -95,7 +95,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Means Of Application-Administration #
 
@@ -103,7 +103,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Season Of Availability-Use #
 
@@ -111,7 +111,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Conservatio-Explotation Data #
 
@@ -119,7 +119,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Use-Type #
 
@@ -127,7 +127,7 @@
 
 > Acc. TDWG Economic Botany. traditional, industrial; past, current, possible
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Rating Popularity #
 
@@ -135,7 +135,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Properties #
 
@@ -143,7 +143,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Problems #
 
@@ -151,7 +151,7 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Potential #
 
@@ -159,13 +159,13 @@
 
 > Acc. TDWG Economic Botany
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Use Notes #
 
 > <img src='http://img585.imageshack.us/img585/4808/optional.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md) 
 
 > # Ancillary Data #
 
@@ -173,4 +173,4 @@
 
 > Ancillary information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+> <b>Class:</b> [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
