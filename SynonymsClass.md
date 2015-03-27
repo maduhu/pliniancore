@@ -12,7 +12,7 @@ Different names for this taxon. This concept is a placeholder field.
 
 > Structured information. Name for this taxon. This concept is a placeholder field.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/SynonymsAtomizedClass.md
+> <b>Class:</b> [SynonymsAtomizedClass.md](../wiki/SynonymsAtomizedClass.md)
 
 > # Synonyms Unstructured #
 
@@ -20,7 +20,7 @@ Different names for this taxon. This concept is a placeholder field.
 
 > Unstructured information.
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 # Ancillary Data #
 
@@ -28,7 +28,7 @@ Different names for this taxon. This concept is a placeholder field.
 
 Ancillary information.
 
-**Class:** https://github.com/mcubillos/pliniancore/blob/wiki/AncillaryDataClass.md
+**Class:** [AncillaryDataClass.md](../wiki/AncillaryDataClass.md)
 
 
 
