@@ -21,17 +21,17 @@
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
 
 
 > # Value #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b>[NormalString.md](../wiki/NormalString.md)
 
 > # Used By #
 
 > <img src='http://img52.imageshack.us/img52/2777/elementkw.jpg' width='26' height='24' />
 
-> <b>Class:</b> https://github.com/mcubillos/pliniancore/blob/wiki/NormalString.md
+> <b>Class:</b> [NormalString.md](../wiki/NormalString.md)
