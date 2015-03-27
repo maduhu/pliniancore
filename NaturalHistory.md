@@ -2,4 +2,4 @@
 
 Most relevant description about the species: Life Form, Life Cycle, Reproduction, Annual Cycles, Feeding, Dispersal, Behavior, Interactions, Molecular Data, Migratory, Ecological Significance, Miscellaneous Details, Environmental Envelope and Ancillary Data.
 
-**Class Reference:** https://github.com/mcubillos/pliniancore/blob/wiki/NaturalHistoryClass.md
+**Class Reference:** [NaturalHistoryClass.md](../wiki/NaturalHistoryClass.md)
